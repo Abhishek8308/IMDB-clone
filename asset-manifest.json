@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Abhishek8308/IMDB-clone/static/css/main.2e39b664.css",
+    "main.js": "/Abhishek8308/IMDB-clone/static/js/main.b70c7fc7.js",
+    "index.html": "/Abhishek8308/IMDB-clone/index.html",
+    "main.2e39b664.css.map": "/Abhishek8308/IMDB-clone/static/css/main.2e39b664.css.map",
+    "main.b70c7fc7.js.map": "/Abhishek8308/IMDB-clone/static/js/main.b70c7fc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e39b664.css",
+    "static/js/main.b70c7fc7.js"
+  ]
+}
